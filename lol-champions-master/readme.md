@@ -30,5 +30,3 @@ The snapshot can also be [downloaded].
 
 
 ## License
-
-MIT © [Nicolas Gryman](http://ngryman.sh)
